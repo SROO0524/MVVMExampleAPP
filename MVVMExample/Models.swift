@@ -11,7 +11,6 @@ enum Gender {
     case male, female, unspecified
 }
 
-
 //    MARK: Struct
 struct Person {
     let name: String
